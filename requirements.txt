@@ -1,0 +1,14 @@
+argparse
+astropy
+hendrics
+luigi
+regions
+pandas
+numpy
+requests
+wget
+multiprocessing
+stingray
+astroquery
+functools 
+matplotlib
